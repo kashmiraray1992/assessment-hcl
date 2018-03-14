@@ -1,7 +1,5 @@
 package com.hcl.interviews;
 
-import static org.junit.Assert.*;
-
 import com.hcl.interviews.inputs.MultipleCalculationInputsProvider;
 import com.hcl.interviews.inputs.SimpleCalculatorInput;
 import com.hcl.interviews.util.Constant;
@@ -9,7 +7,6 @@ import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.mockito.Mock;
 
 import java.util.ArrayList;
 import java.util.List;

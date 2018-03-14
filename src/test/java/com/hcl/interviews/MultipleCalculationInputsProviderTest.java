@@ -3,17 +3,16 @@ package com.hcl.interviews;
 import com.hcl.interviews.inputs.MultipleCalculationInputsProvider;
 import com.hcl.interviews.inputs.SimpleCalculatorInput;
 import com.hcl.interviews.util.Constant;
-import org.junit.Assert;
-import org.junit.Test;
-import org.junit.Before;
 import org.junit.After;
-import org.mockito.Mock;
-
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 /**
  * MultipleCalculationInputsProvider Tester.

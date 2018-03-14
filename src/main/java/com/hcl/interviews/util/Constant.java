@@ -5,9 +5,9 @@ package com.hcl.interviews.util;
  */
 public class Constant {
 
-    public static char ADD = '+';
-    public static char SUBSTRACT = '-';
-    public static char MULTIPLY = '*';
-    public static char DIVIDE = '/';
+    public static final char ADD = '+';
+    public static final char SUBSTRACT = '-';
+    public static final char MULTIPLY = '*';
+    public static final char DIVIDE = '/';
 
 }
